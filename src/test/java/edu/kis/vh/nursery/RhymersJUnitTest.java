@@ -1,5 +1,5 @@
 package edu.kis.vh.nursery;
-
+//WALIDACJA ZAKONCZONA POWODZENIEM
 import org.junit.Assert;
 import org.junit.Test;
 
